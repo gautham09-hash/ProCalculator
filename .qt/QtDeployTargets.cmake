@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ProCalculator_FILE /Users/gauthamkrishna/Desktop/ProCalculator/ProCalculator.app/Contents/MacOS/ProCalculator)
+set(__QT_DEPLOY_TARGET_ProCalculator_TYPE EXECUTABLE)

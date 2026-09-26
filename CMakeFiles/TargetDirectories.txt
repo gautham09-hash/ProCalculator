@@ -1,0 +1,6 @@
+/Users/gauthamkrishna/Desktop/ProCalculator/CMakeFiles/ProCalculator.dir
+/Users/gauthamkrishna/Desktop/ProCalculator/CMakeFiles/ProCalculator_qmlimportscan.dir
+/Users/gauthamkrishna/Desktop/ProCalculator/CMakeFiles/edit_cache.dir
+/Users/gauthamkrishna/Desktop/ProCalculator/CMakeFiles/rebuild_cache.dir
+/Users/gauthamkrishna/Desktop/ProCalculator/CMakeFiles/ProCalculator_autogen_timestamp_deps.dir
+/Users/gauthamkrishna/Desktop/ProCalculator/CMakeFiles/ProCalculator_autogen.dir

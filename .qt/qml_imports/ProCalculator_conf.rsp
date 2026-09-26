@@ -1,0 +1,9 @@
+-rootPath
+/Users/gauthamkrishna/Desktop/ProCalculator
+-cmake-output
+-output-file
+/Users/gauthamkrishna/Desktop/ProCalculator/.qt/qml_imports/ProCalculator_conf.cmake
+-importPath
+/Users/gauthamkrishna/Desktop/ProCalculator
+-importPath
+/opt/homebrew/opt/qt/share/qt/qml

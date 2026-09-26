@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+a5facdb6d5f6d1cfdf5dfb7b74643941 .qt/qml_imports/ProCalculator_build.cmake
+fccbf82c21488cc554cfb082d20f26b4 CMakeFiles/ProCalculator_autogen
+fccbf82c21488cc554cfb082d20f26b4 CMakeFiles/ProCalculator_qmlimportscan
+e3d6e2290eb629db9a584522ab04534f ProCalculator_autogen/EWIEGA46WW/qrc_qml.cpp
+0964df6cd672cbe136ca4d00cc476f77 ProCalculator_autogen/timestamp
